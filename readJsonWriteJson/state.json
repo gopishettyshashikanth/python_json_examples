@@ -1,0 +1,25 @@
+{
+  "states": [
+    {
+      "id": "1",
+      "name": "Andaman and Nicobar Islands",
+      "country_id": "101"
+    },
+    {
+      "id": "2",
+      "name": "Andhra Pradesh",
+      "country_id": "101"
+    },
+    {
+      "id": "3",
+      "name": "Arunachal Pradesh",
+      "country_id": "101"
+    },
+    {
+      "id": "4",
+      "name": "Assam",
+      "country_id": "101"
+    }
+ ]
+}
+    
